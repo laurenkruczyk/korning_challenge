@@ -1,0 +1,7 @@
+  [1m[36mProduct Load (10.7ms)[0m  [1mSELECT "products".* FROM "products"[0m
+  [1m[35mInvoice Load (8.2ms)[0m  SELECT "invoices".* FROM "invoices"
+  [1m[36mProductSale Load (9.1ms)[0m  [1mSELECT "product_sales".* FROM "product_sales"[0m
+  [1m[35mInvoice Load (6.9ms)[0m  SELECT "invoices".* FROM "invoices"
+  [1m[36mEmployee Load (1.8ms)[0m  [1mSELECT "employees".* FROM "employees"[0m
+  [1m[35mCustomer Load (9.7ms)[0m  SELECT "customers".* FROM "customers"
+  [1m[36mInvoice Load (50.7ms)[0m  [1mSELECT "invoices".* FROM "invoices"[0m
